@@ -1,1 +1,1 @@
-Starting tehr po for learning Pytorch and Deep learning 
+Starting this repository for learning Pytorch and Deep learning 
